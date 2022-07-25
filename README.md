@@ -1,2 +1,26 @@
-# Export-WhatsApp-Chat-History-to-Excel-Using-Python
-In this article, we will discuss how to export a specific user’s chats to an Excel sheet. To export the chats, we will use several Python modules and libraries.   In the Excel file, we will create four columns: Date, Time, Name, and Message. We’ll create these columns through Pandas, export all the chat details to their respective columns, and use Pushbullets to retrieve the data using the API key.
+
+# Export WhatsApp Chat History to Excel using Python | Android and iOS
+
+Would you like to export your WhatsApp Chat History & Messages to Excel?
+
+I will show you, how you can easily do this by using Python & the Pushbullet API. Pushbullet is a free service and helps you to connect your smartphone with your computer.
+
+
+## Video Tutorial
+
+[![YouTube Video](https://img.youtube.com/vi/i62VbGSI93A/0.jpg)](https://youtu.be/i62VbGSI93A)
+
+## Author
+
+- Sven from Coding Is Fun
+- YouTube: https://youtube.com/c/CodingIsFun
+- Website: https://pythonandvba.com
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at contact@pythonandvba.com
+
+
+![Logo](https://www.pythonandvba.com/banner-img)
+
